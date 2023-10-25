@@ -1,5 +1,5 @@
 site_name: shlyapp wiki
-site_url: https://shlyapp.github.io/wiki/
+site_url: https://shlyapp.github.io/mkdocs-wiki/
 theme:
   name: material
   features:
