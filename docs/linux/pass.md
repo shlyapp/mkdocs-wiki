@@ -6,7 +6,11 @@
 - `~/.passoword-store/` - станадартная директорая для хранения паролей (можно изменить)
 - `your-id-key` - ключ шифрования [подробнее на эту тему](gpg.md)
 
-## Команды
+## Команды 1
+
+что-то еще [Link text Here](https://link-url-here.org)
+
+### Команды
 
 `pass insert Email/gmail.com` - создать новый пароль для `gmail.com` в папке `Email`
 
