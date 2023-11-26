@@ -1,11 +1,18 @@
 site_name: shlyapp wiki
+
 site_url: https://shlyapp.github.io/mkdocs-wiki/
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    # - navigation.tabs
+    - navigation.instant
+    # - navigation.instant.progress
+    # - toc.follow
+    # - toc.integrate
+    # - navigation.expand
+    # - navigation.path
+    # - navigation.tracking
+    # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
